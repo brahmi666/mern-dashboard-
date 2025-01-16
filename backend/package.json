@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.11",
+    "mysql": "^2.18.1",
+    "socket.io": "^2.2.0",
+    "waait": "^1.0.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fly.js",
+  "scripts": {
+    "start": "nodemon fly.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}

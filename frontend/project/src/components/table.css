@@ -1,0 +1,27 @@
+table{
+    width: 100%;
+}
+
+thead{
+    background-color: blanchedalmond;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+th,td{
+    height: 40px ;
+    border: 1px solid #cccaca;
+    padding: 7px;
+    text-align: center;
+}
+tbody tr:hover{
+    background-color: #8f8c8c;
+    text-size-adjust: 50;
+}
+
+p{
+    transition: all 0.3s ease;
+
+}
+p:hover{
+    text-decoration: underline;
+}
